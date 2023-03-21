@@ -1,8 +1,8 @@
-class conflict 
+class conflict #dev1 
  {
-	 Public static void main()
+	 Public static void main() #dev1
 		  {
-			 System.out.println("Hell world");
+			 System.out.println("Hell world #dev1");
 		  } 
 
  }
