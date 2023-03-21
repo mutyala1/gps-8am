@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+class conflict #dev2 
+ {
+	 Public static void main() #dev2
+=======
+class conflict #dev1 
+ {
+	 Public static void main() #dev1
+>>>>>>> b72dc0a869ad1cf4efbf391e719cd426b6914689
+		  {
+			 System.out.println("Hell world #dev1");
+		  } 
+
+ } #dev2
