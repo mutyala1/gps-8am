@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+class conflict #dev1 
+ {
+	 Public static void main() #dev1
+		  {
+			 System.out.println("Hell world #dev1");
+=======
+class conflict 
+ {
+	 Public static void main()
+		  {
+			 System.out.println("Hell world");
+>>>>>>> 8904eb2 ( modfiied the file by dev1)
+		  } 
+
+ }
